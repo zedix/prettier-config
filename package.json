@@ -1,0 +1,8 @@
+{
+  "name": "@zedix/prettier-config",
+  "version": "1.0.0",
+  "description": "@zedix's prettier shareable config",
+  "author": "@zedix",
+  "copyright": "Copyright (c) 2018-present",
+  "main": "index.js"
+}
