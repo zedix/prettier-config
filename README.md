@@ -13,7 +13,7 @@ Edit `package.json`:
 
 ```json
 {
-  // ...
+  // …
   "prettier": "@zedix/prettier-config"
 }
 ```
