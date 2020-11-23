@@ -18,5 +18,11 @@ module.exports = {
         printWidth: Infinity,
       },
     },
+    {
+      files: '*.njk',
+      options: {
+        parser: 'html',
+      },
+    },
   ],
 };

@@ -1,12 +1,13 @@
 {
   "name": "@zedix/prettier-config",
   "version": "1.0.0",
+  "licence": "MIT",
   "description": "@zedix's prettier shareable config",
   "author": "@zedix",
   "main": "index.js",
   "dependencies": {
-    "prettier": "^2.0.5",
-    "prettier-plugin-package": "^1.0.0"
+    "prettier": "^2.2.0",
+    "prettier-plugin-package": "^1.3.0"
   },
   "copyright": "Copyright (c) 2018-present"
 }
