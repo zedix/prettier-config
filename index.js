@@ -11,6 +11,7 @@ module.exports = {
   tabWidth: 2,
   trailingComma: 'es5', // Default: 'none'
   useTabs: false,
+  vueIndentScriptAndStyle: true, // Default: false
   overrides: [
     {
       files: 'package*.json',
